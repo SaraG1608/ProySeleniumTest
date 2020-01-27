@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=1mQSHQo9MlA
 
 3. Download the git-hub project
 
-Link: https://github.com/SaraG1608/ProyAutomation
+Link: https://github.com/SaraG1608/ProySeleniumTest
 
 4. Open Eclipse and import the downloaded project, option: "File", then option "Import ..."
 
