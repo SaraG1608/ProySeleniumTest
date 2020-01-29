@@ -49,7 +49,7 @@ public class EbayPage extends Base{
 		
 		nameProdsFirst.add("Tenis Puma Negros");
 		nameProdsFirst.add("Puma Adultos Unisex POPCAT Verano Playa Deportes Correa Diapositiva Sandalias Zapatos Blanco..");
-		nameProdsFirst.add("Puma Adultos Unisex leadcat Verano Playa Deportes Correa Diapositiva Sandalias Zapatos Negro.");
+		//nameProdsFirst.add("Puma Adultos Unisex leadcat Verano Playa Deportes Correa Diapositiva Sandalias Zapatos Negro.");
 		nameProdsFirst.add("Las diapositivas del gato Puma plomo (36026302) Deportes Sandalias Flip Flop Zapatos Zapatillas diapositiva");
 		nameProdsFirst.add("Las diapositivas del gato Puma plomo (36026301) Deportes Sandalias Flip Flop Zapatos Zapatillas diapositiva");
 		//nameProdsFirst.add("Las diapositivas del gato Puma plomo (36026308) Deportes Sandalias Flip Flop Zapatos Zapatillas diapositiva");
